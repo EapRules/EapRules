@@ -28,6 +28,20 @@ I'm a fast learner, always looking forward to learn new concepts and state-of-th
 <!--END_SECTION:connect-->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eaprules&show_icons=true&locale=en&theme=tokyonight" alt="eaprules" /></p>
+## Hi, I'm Enzo Politi - aka [EapRules][website] 👋
+
+[![Website](https://img.shields.io/website?label=jangoebel.com&style=for-the-badge&url=https%3A%2F%2Fjangoebel.com)](https://eaprules.com)
+
+I build software with **Javascript**
+[website]: https://eaprules.com
+[twitter]: https://twitter.com/eaprules
+[instagram]: https://youtube.com/channel/eaprules
+[linkedin]: https://www.linkedin.com/in/eaprules
+
+## Connect with me
+[<img align="left" alt="my website: eaprules.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="my LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 
