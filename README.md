@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Enzo Politi</h1>
+<h3 align="center">👋 Hello! I'm Enzo Politi.</h3>
+<p align="center">
+I'm a super curious guy, self-taught, motivated, and passionate about new technologies.
 
-<!--
-**EapRules/EapRules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on previous projects, I learned how to organize the structure of large-scale data-rich web apps with good user experience and mobile-responsive.
 
-Here are some ideas to get you started:
+So far, I've worked side by side with team members, from startups as well as big companies, both in an agile environment and coming up with creative and innovative ideas to build better web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a fast learner, always looking forward to learn new concepts and state-of-the-art technologies and I always apply best practices on my work.
+</p>
+
+---
+
+##### Some Projects
+<!--START_SECTION:projects-->
+* 👋🏻 [My Personal Portfolio](https://github.com/EapRules/Personal-Portfolio) - Next.js, deployed on Firebase
+* 🎵 [YT-Downloader](https://github.com/EapRules/Youtubeast) - YouTube downloader built with React & Node.js
+<!--END_SECTION:projects-->
+
+---
+
+##### Connect with Me
+<!--START_SECTION:connect-->
+* [Portfolio](https://www.eaprules.com) <br/>
+* [Linkedin](https://www.linkedin.com/in/eaprules/) <br/>
+* [Instagram](https://www.instagram.com/eaprules/) <br/>
+<!--END_SECTION:connect-->
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eaprules&show_icons=true&locale=en&theme=tokyonight" alt="eaprules" /></p>
+
+
