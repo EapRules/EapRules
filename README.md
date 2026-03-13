@@ -1,17 +1,35 @@
 <h3 align="center">👋 Hello! I'm Enzo Politi</h3>
 <p align="center">
-I'm a super curious guy, self-taught, motivated, and passionate about new technologies.
-Working on previous projects, I learned how to organize the structure of large-scale data-rich web apps with good user experience and mobile-responsive.
-So far, I've worked side by side with team members, from startups as well as big companies, both in an agile environment and coming up with creative and innovative ideas to build better web apps.
+I am a Lead Mobile Engineer specializing in React Native with 7+ years of experience specializing in high-performance mobile products. I bridge the gap between complex engineering and business impact, leading teams to build scalable systems that users actually love.
+
+
+
+My edge: AI-Accelerated Engineering. I leverage an AI-assisted workflow to significantly reduce development cycles without compromising code quality. By integrating AI into the full SDLC, I focus my energy on what truly matters: high-level architecture, mentoring, and product strategy.
+
+
+
+What I bring to the table:
+
+
+
+Strategic Leadership & Mentoring: Building high-velocity teams through code quality standards and technical guidance.
+
+
+
+Scalable Architecture: Designing modular, maintainable systems using React Native, TypeScript, and React.
+
+
+
+UX Strategy: Partnering with design teams to ensure pixel-perfect execution and intuitive user journeys.
+
+
+
+Product-First Engineering: Collaborating on technical decision-making that aligns with business KPIs and long-term scalability.
+
+
+
+I don’t just write code; I build systems that evolve and teams that grow.
 </p>
-
----
-
-##### Some Projects
-<!--START_SECTION:projects-->
-* 👋🏻 [My Personal Portfolio](https://github.com/EapRules/Personal-Portfolio) - Next.js, deployed on Firebase
-* 🎵 [YT-Downloader](https://github.com/EapRules/Youtubeast) - YouTube downloader built with React & Node.js
-<!--END_SECTION:projects-->
 
 ---
 
