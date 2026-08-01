@@ -35,9 +35,7 @@ I don’t just write code; I build systems that evolve and teams that grow.
 
 ##### Connect with Me
 <!--START_SECTION:connect-->
-* [Portfolio](https://www.eaprules.com) <br/>
 * [Linkedin](https://www.linkedin.com/in/eaprules/) <br/>
-* [Instagram](https://www.instagram.com/eaprules/) <br/>
 <!--END_SECTION:connect-->
 
 
